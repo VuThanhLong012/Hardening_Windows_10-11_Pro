@@ -19,7 +19,7 @@
 
   Script mặc định yêu cầu Windows 11 25H2 build 26200 và tự reboot sau khi HailMary hoàn tất.
 
-  ### Nếu chỉ cần Hardening không cần audit chuyên sâu lại thì đến bước này đã xong
+  ### Nếu chỉ cần Hardening không cần audit chuyên sâu lại thì đến bước này đã xong, cần audit sâu hơn thì làm tiếp các bước dưới đây
 
   Sau reboot, đăng nhập bằng cùng tài khoản rồi chạy:
 

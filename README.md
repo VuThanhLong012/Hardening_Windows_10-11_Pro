@@ -1,10 +1,5 @@
   ### Cách chạy
-
-  Chép hai file vào:
-
-  C:\Lab\HardeningKitty
-
-  Tạo VMware Snapshot, sau đó mở PowerShell bằng đúng tài khoản cần áp dụng user policy và chọn Run as Administrator:
+  Tạo Snapshot, sau đó mở PowerShell bằng đúng tài khoản cần áp dụng user policy và chọn Run as Administrator:
 
   Set-Location 'C:\Lab\HardeningKitty'
 

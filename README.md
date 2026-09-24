@@ -1,9 +1,5 @@
   ### Cách chạy
-
-  C:\Lab\HardeningKitty
-
   Tạo VMware Snapshot, mở PowerShell bằng đúng tài khoản cần áp dụng user policy và chọn Run as Administrator:
-
   Set-Location 'C:\Lab\HardeningKitty'
 
   powershell.exe `

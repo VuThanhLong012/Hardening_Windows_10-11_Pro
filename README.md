@@ -1,4 +1,5 @@
   ### Cách chạy
+  Khi tải file zip về và giải nén => Đổi tên Folder thành Lab => Folder con thành HardeningKitty => Move Folder Lab sang C:\
   Tạo Snapshot, sau đó mở PowerShell bằng đúng tài khoản cần áp dụng user policy và chọn Run as Administrator:
 
   Set-Location 'C:\Lab\HardeningKitty'
